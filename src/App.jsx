@@ -220,7 +220,7 @@ function App() {
             <div className="about-card">
 
               <div className="profile-placeholder">
-                <span>A</span>
+                <img src="src/assets/profile.jpg.jpg" alt="" />
               </div>
 
               <h3>Ashok</h3>
